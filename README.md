@@ -17,7 +17,7 @@ Nothing is submitted automatically. You see the full package first.
 **Requirements:** Python 3.12+, [uv](https://docs.astral.sh/uv/)
 
 ```bash
-git clone <repo>
+git clone git@github.com:iurshina/poetry_submitter.git
 cd poetry_submitter
 uv sync
 uv run playwright install chromium
